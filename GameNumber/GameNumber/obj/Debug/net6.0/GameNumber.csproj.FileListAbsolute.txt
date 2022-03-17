@@ -1,0 +1,15 @@
+D:\Git_Rep\exercise\GameNumber\GameNumber\bin\Debug\net6.0\GameNumber.exe
+D:\Git_Rep\exercise\GameNumber\GameNumber\bin\Debug\net6.0\GameNumber.deps.json
+D:\Git_Rep\exercise\GameNumber\GameNumber\bin\Debug\net6.0\GameNumber.runtimeconfig.json
+D:\Git_Rep\exercise\GameNumber\GameNumber\bin\Debug\net6.0\GameNumber.dll
+D:\Git_Rep\exercise\GameNumber\GameNumber\bin\Debug\net6.0\GameNumber.pdb
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\GameNumber.csproj.AssemblyReference.cache
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\GameNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\GameNumber.AssemblyInfoInputs.cache
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\GameNumber.AssemblyInfo.cs
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\GameNumber.csproj.CoreCompileInputs.cache
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\GameNumber.dll
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\refint\GameNumber.dll
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\GameNumber.pdb
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\GameNumber.genruntimeconfig.cache
+D:\Git_Rep\exercise\GameNumber\GameNumber\obj\Debug\net6.0\ref\GameNumber.dll
