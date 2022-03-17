@@ -19,9 +19,7 @@ while (checkAnswer != true)
     switch (answer)
     {
         case "+":
-            Console.WriteLine($"Test + before: min={min} num={num} max={max} ||| max-num={max-num} num-min={num-min} next_num=num-(max-min)/2={num-(max-min)/2} check=num-(num-min)/2={num-(num-min)/2}"); //test
-            //if (num == num - (num - min) / 2) //проверка на максимальное количество делений
-            if (num - min == 1)
+            if (num - min == 1) //проверка на максимальное количество делений
             {
                 Console.WriteLine($"Хм.. Вы не ошиблись? Это не число {num}?");
                 break;
@@ -29,12 +27,8 @@ while (checkAnswer != true)
             max = num;
             num = num - (max - min) / 2;
             Console.WriteLine($"{answers[rnd.Next(answers.Length)]}{num}?");
-            Console.WriteLine($"Test + after: min={min} num={num} max={max} max-num={max - num}  num-min={num - min}"); //test
             break;
-        
         case "-":
-            Console.WriteLine($"Test - before: min={min} num={num} max={max} ||| max-num={max - num} num-min={num - min} next_num=num+(max-min)/2={num + (max - min) / 2} check=num+(num-min)/2={num + (num - min) / 2}"); //test
-            //if (num == num + (num - min) / 2)
             if (max - num == 1)
             {
                 Console.WriteLine($"Хм.. Вы не ошиблись? Это не число {num}?");
@@ -43,9 +37,7 @@ while (checkAnswer != true)
             min = num;
             num = num + (max - min) / 2;
             Console.WriteLine($"{answers[rnd.Next(answers.Length)]}{num}?");
-            Console.WriteLine($"Test - after: min={min} num={num} max={max} max-num={max - num}  num-min={num - min}"); //test
             break;
-        
         case "=":
             checkAnswer = true;
             Console.WriteLine($"Ура! Я угадал твое число {num}!");
