@@ -1,5 +1,5 @@
-﻿int min = 1;
-int max = 100;
+﻿int min = 0;
+int max = 101;
 int num = (max - min) / 2;
 string answer; //ответ пользователя
 
