@@ -11,6 +11,7 @@ Console.WriteLine("Добро пожаловать в игру! Я угадаю 
 Console.WriteLine($"Напиши '+', если мое число больше твоего, '-', если меньше, и '=', если я угадал: {num}?");
 
 Console.WriteLine($"Test {num}"); //test
+//test
 
 while (checkAnswer != true)
 {
